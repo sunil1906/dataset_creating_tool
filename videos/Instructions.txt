@@ -1,0 +1,1 @@
+Place your videos in this folder. Open index.py and type the video name same (case sensitive) what you have given here.
