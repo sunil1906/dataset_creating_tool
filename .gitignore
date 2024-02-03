@@ -1,0 +1,8 @@
+__pycache__/
+*.mp4
+*.avi
+*.AVI
+backlog.txt
+AI_weights/
+dataset/
+venv/
